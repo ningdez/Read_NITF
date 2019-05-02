@@ -1,4 +1,4 @@
-It can read the NITF data format of WPAFB 2009 for python.  
+It can read the NITF data for WPAFB 2009 for python.  
 Download [WPAFB 2009](https://www.sdms.afrl.af.mil/index.php?collection=wpafb2009)
 # Running Environments:
 Ubuntu 16.04  
